@@ -1,1 +1,29 @@
-/*  your css code here. If applicable */
+body {
+    font-family: Arial, sans-serif;
+}
+
+marquee {
+    background-color: #f0f0f0;
+    padding: 10px;
+}
+
+h1, h2 {
+    margin-bottom: 10px;
+}
+
+article {
+    margin-bottom: 20px;
+}
+
+img {
+    margin-bottom: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: #337ab7;
+}
+
+a:hover {
+    color: #23527c;
+}
